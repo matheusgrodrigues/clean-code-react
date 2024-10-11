@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
    title: "Código Limpo",
-   description: "Códigos postados no meu linkedin.",
+   description: "Série destinada a compartilhar as melhores práticas de código limpo de Robert C. Martin.",
 };
 
 export default function RootLayout({
